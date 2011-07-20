@@ -1,0 +1,3 @@
+# Module drumor_sds
+# RPC service class, partial path of RPC policy file
+com.sds.drumor.client.GreetingService, 578CFF0D10E2AB81464F319634CD6152.gwt.rpc

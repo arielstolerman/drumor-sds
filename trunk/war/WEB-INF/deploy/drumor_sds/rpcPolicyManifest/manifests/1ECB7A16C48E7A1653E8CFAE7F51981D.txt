@@ -1,0 +1,2 @@
+serviceClass: com.sds.drumor.client.GreetingService
+path: 578CFF0D10E2AB81464F319634CD6152.gwt.rpc
